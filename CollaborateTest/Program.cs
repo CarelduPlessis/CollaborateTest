@@ -8,7 +8,7 @@ namespace CollaborateTest
         {
 
             Console.WriteLine("Hello! world");
-            Console.WriteLine("WOlf ss ss ss");
+            Console.WriteLine("Wolves");
         }
     }
 }
